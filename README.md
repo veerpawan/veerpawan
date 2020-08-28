@@ -1,6 +1,6 @@
 ### Hola, Pawan Soni! 👋
 
-- 🔭 I’m currently working on Chetu Inc. as Software Enginner.
+- 🔭 I’m currently working in Chetu Inc. as Software Enginner.
 - 🌱 I’m currently learning Kotlin.
 - 👯 I’m looking to collaborate on Tech Stuffs.
 - 🤔 I’m looking for help with other tech members.
